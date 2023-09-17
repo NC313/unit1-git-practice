@@ -91,9 +91,10 @@ Mkdir drinks rmdir drinks
 
 ### Step 4
 
+Git init git add . Git -m 'first commit'
 
 ### Step 5
-
+Git remote add origin, git branch -m main, git push -u origin main
 
 ### Step 6
 
