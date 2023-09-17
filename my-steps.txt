@@ -97,7 +97,7 @@ Git init git add . Git -m 'first commit'
 Git remote add origin, git branch -m main, git push -u origin main
 
 ### Step 6
-
+Git add ., git commit -m 'starting a menu', git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
