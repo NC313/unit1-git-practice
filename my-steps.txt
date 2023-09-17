@@ -1,0 +1,102 @@
+### Step 2A
+Result of running pwd: /Users/nc3_goodluck/Desktop/unit1-git-practice
+
+### Step 2B
+
+cd ~/Desktop = nc3_goodluck@Nathaniels-MacBook-Air Desktop % 
+
+### Step 2C
+cd unit and the tab button finished the command and brought me: nc3_goodluck@Nathaniels-MacBook-Air unit1-git-practice % 
+
+
+### Step 2D
+pwd: nc3_goodluck@Nathaniels-MacBook-Air unit1-git-practice % 
+
+### Step 2E
+Ls
+
+### Step 2F
+
+nc3_goodluck@Nathaniels-MacBook-Air unit1-git-practice % ls
+my-steps.txt
+
+### Step 2G
+cd
+
+### Step 2H
+nc3_goodluck@Nathaniels-MacBook-Air ~ % pwd
+/Users/nc3_goodluck
+
+### Step 2I
+nc3_goodluck@Nathaniels-MacBook-Air ~ % ls
+Applications		Music			help
+Desktop			Pictures		index.html
+Diaries			Postman			my
+			Sites			node_modules
+Dickies			Wiki-API		package-lock.json
+Documents		app.js			package.json
+Downloads		eclipse			resume
+Library			eclipse-workspace	show
+Movies			express-server
+
+### Step 2J
+Cd ~
+
+### Step 2K
+
+Cd Desktop, and cd unit1-git-practice
+
+### Step 3A
+Mkdir veggies, mkdir meats, mkdir desserts
+
+### Step 3B
+Mv desserts sweets
+
+### Step 3C
+Mkdir proteins
+
+### Step 3D
+Mv meats proteins
+
+### Step 3E
+Cd veggies and touch carrot.txt pea.txt
+
+### Step 3F
+Cd .. cd sweets touch cookie.txt
+
+### Step 3G
+Mv cookie.txt donut.txt
+
+### Step 3H
+Cd .. touch thing.txt
+
+### Step 3I
+Cp thing.txt tofu.txt
+
+### Step 3J
+Mv tofu.text proteins
+
+### Step 3K
+mv crab.txt proteins/meats
+
+### Step 3L
+Rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+Mkdir drinks rmdir drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
